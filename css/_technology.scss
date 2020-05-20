@@ -1,0 +1,19 @@
+.technology {
+    background: #3f8ffc;
+    width: 100%;
+    padding: 100px;
+    padding-top: 300px;
+    margin-top: -300px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    .contentBx {
+        max-width: 800px;
+    }
+    .imgBx {
+        max-width: 250px;
+        img {
+            max-width: 100%;
+        }
+    }
+}
